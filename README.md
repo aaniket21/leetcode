@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/aaniket21/leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/aaniket21/leetcode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/aaniket21/leetcode/tree/master/0633-sum-of-square-numbers) |
+## Array
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/aaniket21/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/aaniket21/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
