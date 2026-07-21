@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/aaniket21/leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/aaniket21/leetcode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/aaniket21/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0728-self-dividing-numbers](https://github.com/aaniket21/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1103-distribute-candies-to-people](https://github.com/aaniket21/leetcode/tree/master/1103-distribute-candies-to-people) |
 ## Two Pointers
 |  |
