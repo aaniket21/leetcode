@@ -39,12 +39,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/aaniket21/leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/aaniket21/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/aaniket21/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/aaniket21/leetcode/tree/master/0258-add-digits) |
 | [1103-distribute-candies-to-people](https://github.com/aaniket21/leetcode/tree/master/1103-distribute-candies-to-people) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/aaniket21/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 ## Hash Table
 |  |
 | ------- |
