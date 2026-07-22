@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/aaniket21/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aaniket21/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2544-alternating-digit-sum](https://github.com/aaniket21/leetcode/tree/master/2544-alternating-digit-sum) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/aaniket21/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aaniket21/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Two Pointers
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aaniket21/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aaniket21/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/aaniket21/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aaniket21/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3701-compute-alternating-sum](https://github.com/aaniket21/leetcode/tree/master/3701-compute-alternating-sum) |
 ## Enumeration
