@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/aaniket21/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/aaniket21/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1103-distribute-candies-to-people](https://github.com/aaniket21/leetcode/tree/master/1103-distribute-candies-to-people) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/aaniket21/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/aaniket21/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aaniket21/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2544-alternating-digit-sum](https://github.com/aaniket21/leetcode/tree/master/2544-alternating-digit-sum) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/aaniket21/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aaniket21/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aaniket21/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/aaniket21/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
