@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/aaniket21/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/aaniket21/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1103-distribute-candies-to-people](https://github.com/aaniket21/leetcode/tree/master/1103-distribute-candies-to-people) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/aaniket21/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aaniket21/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Two Pointers
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/aaniket21/leetcode/tree/master/0258-add-digits) |
 | [1103-distribute-candies-to-people](https://github.com/aaniket21/leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/aaniket21/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/aaniket21/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
