@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aaniket21/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/aaniket21/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aaniket21/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/aaniket21/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/aaniket21/leetcode/tree/master/2544-alternating-digit-sum) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/aaniket21/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aaniket21/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aaniket21/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aaniket21/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2460-apply-operations-to-an-array](https://github.com/aaniket21/leetcode/tree/master/2460-apply-operations-to-an-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/aaniket21/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aaniket21/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/aaniket21/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aaniket21/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
