@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/aaniket21/leetcode/tree/master/0036-valid-sudoku) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aaniket21/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aaniket21/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2460-apply-operations-to-an-array](https://github.com/aaniket21/leetcode/tree/master/2460-apply-operations-to-an-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/aaniket21/leetcode/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/aaniket21/leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/aaniket21/leetcode/tree/master/0202-happy-number) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/aaniket21/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aaniket21/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/aaniket21/leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
