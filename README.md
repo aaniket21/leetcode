@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/aaniket21/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/aaniket21/leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/aaniket21/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/aaniket21/leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/aaniket21/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2390-removing-stars-from-a-string](https://github.com/aaniket21/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3110-score-of-a-string](https://github.com/aaniket21/leetcode/tree/master/3110-score-of-a-string) |
@@ -135,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/aaniket21/leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
+## Greedy
+|  |
+| ------- |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/aaniket21/leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 <!---LeetCode Topics End-->
