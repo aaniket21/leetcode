@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/aaniket21/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/aaniket21/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2390-removing-stars-from-a-string](https://github.com/aaniket21/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3110-score-of-a-string](https://github.com/aaniket21/leetcode/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/aaniket21/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
