@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/aaniket21/leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/aaniket21/leetcode/tree/master/0202-happy-number) |
+| [0541-reverse-string-ii](https://github.com/aaniket21/leetcode/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/aaniket21/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/aaniket21/leetcode/tree/master/0844-backspace-string-compare) |
 | [2460-apply-operations-to-an-array](https://github.com/aaniket21/leetcode/tree/master/2460-apply-operations-to-an-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0541-reverse-string-ii](https://github.com/aaniket21/leetcode/tree/master/0541-reverse-string-ii) |
 | [0844-backspace-string-compare](https://github.com/aaniket21/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aaniket21/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/aaniket21/leetcode/tree/master/1108-defanging-an-ip-address) |
