@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/aaniket21/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/aaniket21/leetcode/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/aaniket21/leetcode/tree/master/1768-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/aaniket21/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2460-apply-operations-to-an-array](https://github.com/aaniket21/leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Binary Search
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/aaniket21/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/aaniket21/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/aaniket21/leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
+| [2000-reverse-prefix-of-word](https://github.com/aaniket21/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2278-percentage-of-letter-in-string](https://github.com/aaniket21/leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/aaniket21/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2390-removing-stars-from-a-string](https://github.com/aaniket21/leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/aaniket21/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aaniket21/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/aaniket21/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [2000-reverse-prefix-of-word](https://github.com/aaniket21/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/aaniket21/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Bit Manipulation
 |  |
