@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/aaniket21/leetcode/tree/master/0036-valid-sudoku) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aaniket21/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0804-unique-morse-code-words](https://github.com/aaniket21/leetcode/tree/master/0804-unique-morse-code-words) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aaniket21/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aaniket21/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/aaniket21/leetcode/tree/master/1436-destination-city) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/aaniket21/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/aaniket21/leetcode/tree/master/0541-reverse-string-ii) |
+| [0804-unique-morse-code-words](https://github.com/aaniket21/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0844-backspace-string-compare](https://github.com/aaniket21/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aaniket21/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/aaniket21/leetcode/tree/master/1108-defanging-an-ip-address) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/aaniket21/leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/aaniket21/leetcode/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/aaniket21/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0804-unique-morse-code-words](https://github.com/aaniket21/leetcode/tree/master/0804-unique-morse-code-words) |
 | [1436-destination-city](https://github.com/aaniket21/leetcode/tree/master/1436-destination-city) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/aaniket21/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aaniket21/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
