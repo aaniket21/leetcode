@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/aaniket21/leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/aaniket21/leetcode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/aaniket21/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/aaniket21/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Array
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aaniket21/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/aaniket21/leetcode/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aaniket21/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/aaniket21/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aaniket21/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/aaniket21/leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/aaniket21/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/aaniket21/leetcode/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/aaniket21/leetcode/tree/master/0844-backspace-string-compare) |
 | [1103-distribute-candies-to-people](https://github.com/aaniket21/leetcode/tree/master/1103-distribute-candies-to-people) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/aaniket21/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/aaniket21/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aaniket21/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/aaniket21/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/aaniket21/leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/aaniket21/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Greedy
 |  |
 | ------- |
