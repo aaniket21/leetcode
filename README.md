@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/aaniket21/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/aaniket21/leetcode/tree/master/3731-find-missing-elements) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/aaniket21/leetcode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
+| [3921-score-validator](https://github.com/aaniket21/leetcode/tree/master/3921-score-validator) |
 ## Enumeration
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aaniket21/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aaniket21/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/aaniket21/leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
+| [3921-score-validator](https://github.com/aaniket21/leetcode/tree/master/3921-score-validator) |
 ## Simulation
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/aaniket21/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/aaniket21/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/aaniket21/leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
+| [3921-score-validator](https://github.com/aaniket21/leetcode/tree/master/3921-score-validator) |
 ## Hash Table
 |  |
 | ------- |
