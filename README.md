@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aaniket21/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aaniket21/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3701-compute-alternating-sum](https://github.com/aaniket21/leetcode/tree/master/3701-compute-alternating-sum) |
+| [3731-find-missing-elements](https://github.com/aaniket21/leetcode/tree/master/3731-find-missing-elements) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/aaniket21/leetcode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Enumeration
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/aaniket21/leetcode/tree/master/1436-destination-city) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/aaniket21/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aaniket21/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3731-find-missing-elements](https://github.com/aaniket21/leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aaniket21/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aaniket21/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/aaniket21/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/aaniket21/leetcode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
