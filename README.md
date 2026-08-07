@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/aaniket21/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0844-backspace-string-compare](https://github.com/aaniket21/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aaniket21/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/aaniket21/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/aaniket21/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [3310-remove-methods-from-project](https://github.com/aaniket21/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -240,4 +242,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/aaniket21/leetcode/tree/master/3310-remove-methods-from-project) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/aaniket21/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/aaniket21/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
