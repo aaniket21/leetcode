@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/aaniket21/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aaniket21/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2788-split-strings-by-separator](https://github.com/aaniket21/leetcode/tree/master/2788-split-strings-by-separator) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/aaniket21/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/aaniket21/leetcode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/aaniket21/leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/aaniket21/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/aaniket21/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2390-removing-stars-from-a-string](https://github.com/aaniket21/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2788-split-strings-by-separator](https://github.com/aaniket21/leetcode/tree/master/2788-split-strings-by-separator) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/aaniket21/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3110-score-of-a-string](https://github.com/aaniket21/leetcode/tree/master/3110-score-of-a-string) |
 | [3248-snake-in-matrix](https://github.com/aaniket21/leetcode/tree/master/3248-snake-in-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/aaniket21/leetcode/tree/master/3498-reverse-degree-of-a-string) |
