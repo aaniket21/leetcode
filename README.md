@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aaniket21/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aaniket21/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/aaniket21/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3894-traffic-signal-color](https://github.com/aaniket21/leetcode/tree/master/3894-traffic-signal-color) |
 ## Two Pointers
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aaniket21/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/aaniket21/leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3803-count-residue-prefixes](https://github.com/aaniket21/leetcode/tree/master/3803-count-residue-prefixes) |
+| [3894-traffic-signal-color](https://github.com/aaniket21/leetcode/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/aaniket21/leetcode/tree/master/3921-score-validator) |
 ## Simulation
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/aaniket21/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/aaniket21/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/aaniket21/leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
+| [3894-traffic-signal-color](https://github.com/aaniket21/leetcode/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/aaniket21/leetcode/tree/master/3921-score-validator) |
 ## Hash Table
 |  |
