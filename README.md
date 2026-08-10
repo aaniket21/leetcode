@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/aaniket21/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/aaniket21/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aaniket21/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/aaniket21/leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2460-apply-operations-to-an-array](https://github.com/aaniket21/leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/aaniket21/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aaniket21/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/aaniket21/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/aaniket21/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aaniket21/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/aaniket21/leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aaniket21/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/aaniket21/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/aaniket21/leetcode/tree/master/3731-find-missing-elements) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aaniket21/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/aaniket21/leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/aaniket21/leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/aaniket21/leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/aaniket21/leetcode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Counting Sort
 |  |
