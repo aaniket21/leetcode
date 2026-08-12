@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/aaniket21/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3110-score-of-a-string](https://github.com/aaniket21/leetcode/tree/master/3110-score-of-a-string) |
 | [3248-snake-in-matrix](https://github.com/aaniket21/leetcode/tree/master/3248-snake-in-matrix) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/aaniket21/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/aaniket21/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aaniket21/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aaniket21/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/aaniket21/leetcode/tree/master/1436-destination-city) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/aaniket21/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aaniket21/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/aaniket21/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aaniket21/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/aaniket21/leetcode/tree/master/3731-find-missing-elements) |
 | [3803-count-residue-prefixes](https://github.com/aaniket21/leetcode/tree/master/3803-count-residue-prefixes) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/aaniket21/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/aaniket21/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/aaniket21/leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/aaniket21/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aaniket21/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Number Theory
 |  |
