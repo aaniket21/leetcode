@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/aaniket21/leetcode/tree/master/0036-valid-sudoku) |
+| [0347-top-k-frequent-elements](https://github.com/aaniket21/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aaniket21/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0804-unique-morse-code-words](https://github.com/aaniket21/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/aaniket21/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/aaniket21/leetcode/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/aaniket21/leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/aaniket21/leetcode/tree/master/0202-happy-number) |
+| [0347-top-k-frequent-elements](https://github.com/aaniket21/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/aaniket21/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/aaniket21/leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/aaniket21/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aaniket21/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/aaniket21/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/aaniket21/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aaniket21/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aaniket21/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/aaniket21/leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/aaniket21/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aaniket21/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -232,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aaniket21/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/aaniket21/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aaniket21/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/aaniket21/leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
@@ -306,5 +311,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aaniket21/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/aaniket21/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aaniket21/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aaniket21/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
