@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/aaniket21/leetcode/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/aaniket21/leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Stack
 |  |
 | ------- |
@@ -290,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3206-alternating-groups-i](https://github.com/aaniket21/leetcode/tree/master/3206-alternating-groups-i) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/aaniket21/leetcode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
