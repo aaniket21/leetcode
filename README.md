@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2960-count-tested-devices-after-test-operations](https://github.com/aaniket21/leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aaniket21/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/aaniket21/leetcode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
+| [3206-alternating-groups-i](https://github.com/aaniket21/leetcode/tree/master/3206-alternating-groups-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/aaniket21/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3248-snake-in-matrix](https://github.com/aaniket21/leetcode/tree/master/3248-snake-in-matrix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aaniket21/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -285,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/aaniket21/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Sliding Window
+|  |
+| ------- |
+| [3206-alternating-groups-i](https://github.com/aaniket21/leetcode/tree/master/3206-alternating-groups-i) |
 <!---LeetCode Topics End-->
