@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/aaniket21/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/aaniket21/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aaniket21/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2284-sender-with-largest-word-count](https://github.com/aaniket21/leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/aaniket21/leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2460-apply-operations-to-an-array](https://github.com/aaniket21/leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/aaniket21/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/aaniket21/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2278-percentage-of-letter-in-string](https://github.com/aaniket21/leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/aaniket21/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2284-sender-with-largest-word-count](https://github.com/aaniket21/leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2390-removing-stars-from-a-string](https://github.com/aaniket21/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2788-split-strings-by-separator](https://github.com/aaniket21/leetcode/tree/master/2788-split-strings-by-separator) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/aaniket21/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/aaniket21/leetcode/tree/master/1436-destination-city) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/aaniket21/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/aaniket21/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2284-sender-with-largest-word-count](https://github.com/aaniket21/leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aaniket21/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/aaniket21/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aaniket21/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/aaniket21/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/aaniket21/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/aaniket21/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2284-sender-with-largest-word-count](https://github.com/aaniket21/leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/aaniket21/leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/aaniket21/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aaniket21/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
