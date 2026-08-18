@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aaniket21/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aaniket21/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/aaniket21/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aaniket21/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3894-traffic-signal-color](https://github.com/aaniket21/leetcode/tree/master/3894-traffic-signal-color) |
 ## Two Pointers
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aaniket21/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3701-compute-alternating-sum](https://github.com/aaniket21/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/aaniket21/leetcode/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aaniket21/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/aaniket21/leetcode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 | [3921-score-validator](https://github.com/aaniket21/leetcode/tree/master/3921-score-validator) |
 ## Enumeration
