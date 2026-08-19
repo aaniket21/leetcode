@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/aaniket21/leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/aaniket21/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/aaniket21/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aaniket21/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/aaniket21/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aaniket21/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aaniket21/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/aaniket21/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/aaniket21/leetcode/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/aaniket21/leetcode/tree/master/0844-backspace-string-compare) |
 | [1103-distribute-candies-to-people](https://github.com/aaniket21/leetcode/tree/master/1103-distribute-candies-to-people) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/aaniket21/leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/aaniket21/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/aaniket21/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [2326-spiral-matrix-iv](https://github.com/aaniket21/leetcode/tree/master/2326-spiral-matrix-iv) |
 ## Sorting
 |  |
