@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aaniket21/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/aaniket21/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/aaniket21/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aaniket21/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/aaniket21/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/aaniket21/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/aaniket21/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/aaniket21/leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/aaniket21/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/aaniket21/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aaniket21/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2326-spiral-matrix-iv](https://github.com/aaniket21/leetcode/tree/master/2326-spiral-matrix-iv) |
 ## Sorting
 |  |
