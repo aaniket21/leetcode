@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2960-count-tested-devices-after-test-operations](https://github.com/aaniket21/leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aaniket21/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/aaniket21/leetcode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/aaniket21/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3206-alternating-groups-i](https://github.com/aaniket21/leetcode/tree/master/3206-alternating-groups-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/aaniket21/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3248-snake-in-matrix](https://github.com/aaniket21/leetcode/tree/master/3248-snake-in-matrix) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/aaniket21/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/aaniket21/leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/aaniket21/leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/aaniket21/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3248-snake-in-matrix](https://github.com/aaniket21/leetcode/tree/master/3248-snake-in-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/aaniket21/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/aaniket21/leetcode/tree/master/3701-compute-alternating-sum) |
