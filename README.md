@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/aaniket21/leetcode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/aaniket21/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/aaniket21/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aaniket21/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Array
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/aaniket21/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aaniket21/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/aaniket21/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aaniket21/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/aaniket21/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/aaniket21/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aaniket21/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/aaniket21/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aaniket21/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/aaniket21/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aaniket21/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/aaniket21/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/aaniket21/leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2733-neither-minimum-nor-maximum](https://github.com/aaniket21/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
