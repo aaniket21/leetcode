@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aaniket21/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/aaniket21/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/aaniket21/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/aaniket21/leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/aaniket21/leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1436-destination-city](https://github.com/aaniket21/leetcode/tree/master/1436-destination-city) |
 | [1768-merge-strings-alternately](https://github.com/aaniket21/leetcode/tree/master/1768-merge-strings-alternately) |
