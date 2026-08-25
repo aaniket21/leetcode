@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aaniket21/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aaniket21/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3701-compute-alternating-sum](https://github.com/aaniket21/leetcode/tree/master/3701-compute-alternating-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/aaniket21/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/aaniket21/leetcode/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aaniket21/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aaniket21/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aaniket21/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/aaniket21/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aaniket21/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/aaniket21/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/aaniket21/leetcode/tree/master/3731-find-missing-elements) |
 | [3803-count-residue-prefixes](https://github.com/aaniket21/leetcode/tree/master/3803-count-residue-prefixes) |
 ## Counting
